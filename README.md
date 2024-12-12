@@ -1,4 +1,6 @@
 # TURUKU
+“An Intelligent Sleep Tracking and Disorder Detection App”
+
 ## LOGO
 
 
