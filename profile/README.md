@@ -1,8 +1,10 @@
 ![Turuku_Logo (1)](https://github.com/user-attachments/assets/d85e52f8-af2f-4b2a-ad53-fcec0b7a5008)
 
 
-# TURUKU 💤
+# (C23-PS233) TURUKU 💤
+**Human Healthcare and Living Wellbeings**
 “An Intelligent Sleep Tracking and Disorder Detection App”
+
 
 ## BACKGROUND
 Sleep quality is an important clinical construct since it is increasingly common for people to complain about poor sleep quality and its impact on daytime functioning. Moreover, poor sleep quality can be an important symptom of many sleep and medical disorders. However, objective measures of sleep quality, such as polysomnography, are not readily available to most clinicians in their daily routine, and are expensive, time-consuming, and impractical for epidemiological and research studies. 
