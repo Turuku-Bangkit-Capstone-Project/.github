@@ -18,11 +18,9 @@ Turuku is a cloud-based mobile application designed to help users improve their 
 
 Turuku is your companion for achieving better sleep and a healthier lifestyle, backed by advanced technology and user-focused solutions.
 
-### DELIVERABLE
-Lorem  ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed
+## ARCHITECTURE
+![download (1)](https://github.com/user-attachments/assets/2eb232e2-2c5a-4784-bb7b-384d44aa2b68)
 
-### SCOPE
-Lorem ipsum  dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed
 
 ## MEET OUR TEAM!
 | Learning Path      | Student ID   | Name                                                 | University                                          |
@@ -36,10 +34,6 @@ Lorem ipsum  dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auc
 | Mobile Development | A263B4KY3783 | [Reyyan](https://github.com/Rabsxd) | Universitas Muhammadiyah Purwokerto                 |
 
 ## LINKS
-
-## NOTE
-Repository for capstone project 
-
-Please use conventional commit massage, you can read it here :  https://www.conventionalcommits.org/en/v1.0.0/  
-Please use comments so we can know what each code is for.
-Help each other if you can
+Machine Learning : 
+Mobile Development : 
+Cloud Computing : 
