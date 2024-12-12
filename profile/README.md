@@ -20,6 +20,34 @@ Turuku is your companion for achieving better sleep and a healthier lifestyle, b
 
 ## ARCHITECTURE
 ![download (1)](https://github.com/user-attachments/assets/2eb232e2-2c5a-4784-bb7b-384d44aa2b68)
+**1. Machine Learning : **
+- Tensorflow
+- Pandas
+- Numpy
+- Sklearn
+- Seaborn
+- Matplotlib
+- TensorflowJS
+
+**2. Cloud Computing : **
+- ExpressJS
+- Cloud Run
+- Artifact Registry
+- PPC
+- MemoryStore
+- Pup/Sub
+- Cloud Monitoring
+- Grafana
+- OpenAPI
+- Mailgun
+- Virtual Machine
+- MySQL
+- Google Secret Manager
+- Ops of Agent
+- JWT
+- Flask API
+
+**3. Mobile Development : **
 
 
 ## MEET OUR TEAM!
@@ -34,6 +62,6 @@ Turuku is your companion for achieving better sleep and a healthier lifestyle, b
 | Mobile Development | A263B4KY3783 | [Reyyan](https://github.com/Rabsxd) | Universitas Muhammadiyah Purwokerto                 |
 
 ## LINKS
-Machine Learning : 
-Mobile Development : 
-Cloud Computing : 
+Machine Learning : https://github.com/Turuku-Bangkit-Capstone-Project/Machine-Learning</BR>
+Mobile Development : https://github.com/Turuku-Bangkit-Capstone-Project/Mobile-Development</BR>
+Cloud Computing : https://github.com/Turuku-Bangkit-Capstone-Project/Cloud-Computing-BANGKIT</BR>
