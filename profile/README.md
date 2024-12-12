@@ -6,19 +6,19 @@ Group ID (C23-PS233) </br>
 “An Intelligent Sleep Tracking and Disorder Detection App”
 
 
-## BACKGROUND
+## BACKGROUND 📚
 Sleep quality is an important clinical construct since it is increasingly common for people to complain about poor sleep quality and its impact on daytime functioning. Moreover, poor sleep quality can be an important symptom of many sleep and medical disorders. However, objective measures of sleep quality, such as polysomnography, are not readily available to most clinicians in their daily routine, and are expensive, time-consuming, and impractical for epidemiological and research studies. 
 
 A common but significant change associated with aging is a profound disruption to the daily sleep-wake cycle. It has been estimated that as many as 50% of older adults complain about difficulty initiating or maintaining sleep. Poor sleep results in increased risk of significant morbidity and mortality. Moreover, in younger adults, compromised sleep has been shown to have a consistent effect on cognitive function, which may suggest that sleep problems contribute to the cognitive changes that accompany older age. The multifactorial nature of variables affecting sleep in old age cannot be overstated.
 
 Due to these factors, several questions regarding sleep quality problems and how to improve their sleep quality should be answered by creating a smart application system to determine the cause of lack of sleep quality and how to effectively cure them. Through a cloud-based mobile application called “Turuku”, we will answer these questions such as “what are the main problems of people’s lack of sleep?”, “how can we fix trouble sleeping effectively?, and  “how can we educate people about the lack of sleep problem?”
 
-## PRODUCT DESCRIPTION
+## PRODUCT DESCRIPTION ℹ️
 Turuku is a cloud-based mobile application designed to help users improve their sleep quality through cutting-edge features. The app focuses on two core functionalities: Chronotype Classification and Personalized Sleep Recommendations. With Chronotype Classification, Turuku identifies your natural sleep-wake preferences, helping you understand your biological clock. This allows for a more tailored approach to improving your sleep patterns. The Sleep Recommendation feature provides customized advice to optimize your sleep schedule, ensuring better rest and enhanced well-being.
 
 Turuku is your companion for achieving better sleep and a healthier lifestyle, backed by advanced technology and user-focused solutions.
 
-## ARCHITECTURE
+## ARCHITECTURE 💻
 ![download (1)](https://github.com/user-attachments/assets/2eb232e2-2c5a-4784-bb7b-384d44aa2b68)
 | Component           | Tools & Libraries                                                                                          |
 |---------------------|-----------------------------------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ Turuku is your companion for achieving better sleep and a healthier lifestyle, b
 
 
 
-## MEET OUR TEAM!
+## MEET OUR TEAM! 🤵
 | Learning Path      | Student ID   | Name                                                 | University                                          |
 | ------------------ | ------------ | ---------------------------------------------------- | --------------------------------------------------- |
 | Machine Learning   | M193B4KY2711 | [Muhammad Ali Yahya](https://github.com/Muhammad-Ali-Yahya)    | Universitas Bina Sarana Informatika                               |
@@ -39,10 +39,12 @@ Turuku is your companion for achieving better sleep and a healthier lifestyle, b
 | Mobile Development | A193B4KY2889 | [Muhammad Helmy](https://github.com/muhhlmy])            | Universitas Bina Sarana Informatika                        |
 | Mobile Development | A263B4KY3783 | [Reyyan](https://github.com/Rabsxd) | Universitas Muhammadiyah Purwokerto                 |
 
-## LINKS
+## LINKS 🔗
 | Component           | Repository Link                                                                                      |
 |---------------------|----------------------------------------------------------------------------------------------------|
 | **Machine Learning** | [Machine Learning Repository](https://github.com/Turuku-Bangkit-Capstone-Project/Machine-Learning) |
 | **Mobile Development** | [Mobile Development Repository](https://github.com/Turuku-Bangkit-Capstone-Project/Mobile-Development) |
 | **Cloud Computing** | [Cloud Computing Repository](https://github.com/Turuku-Bangkit-Capstone-Project/Cloud-Computing-BANGKIT) |
 
+## DOWNLOAD APPLICATION 📩
+(link)
