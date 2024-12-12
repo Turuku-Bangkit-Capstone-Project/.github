@@ -1,5 +1,8 @@
-# TURUKU
-## LOGO
+![Turuku_Logo](https://github.com/user-attachments/assets/86834157-b12a-4ee9-8e0a-1f09b95a73fc)
+
+# TURUKU 💤
+“An Intelligent Sleep Tracking and Disorder Detection App”
+
 
 
 ## BACKGROUND
