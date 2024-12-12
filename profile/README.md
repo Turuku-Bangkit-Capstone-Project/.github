@@ -4,10 +4,16 @@
 “An Intelligent Sleep Tracking and Disorder Detection App”
 
 ## BACKGROUND
-Sleep quality is vital for health, yet many struggle with poor sleep, affecting daily life and increasing health risks. Aging worsens this issue, with 50% of older adults reporting sleep difficulties, contributing to cognitive decline and higher morbidity. Objective measures like polysomnography are costly and impractical for widespread use. "Turuku," a cloud-based mobile app, aims to tackle this by identifying sleep issues, providing tailored solutions, and educating users on improving sleep quality, offering an accessible and effective approach to better rest.
+Sleep quality is an important clinical construct since it is increasingly common for people to complain about poor sleep quality and its impact on daytime functioning. Moreover, poor sleep quality can be an important symptom of many sleep and medical disorders. However, objective measures of sleep quality, such as polysomnography, are not readily available to most clinicians in their daily routine, and are expensive, time-consuming, and impractical for epidemiological and research studies. 
+
+A common but significant change associated with aging is a profound disruption to the daily sleep-wake cycle. It has been estimated that as many as 50% of older adults complain about difficulty initiating or maintaining sleep. Poor sleep results in increased risk of significant morbidity and mortality. Moreover, in younger adults, compromised sleep has been shown to have a consistent effect on cognitive function, which may suggest that sleep problems contribute to the cognitive changes that accompany older age. The multifactorial nature of variables affecting sleep in old age cannot be overstated.
+
+Due to these factors, several questions regarding sleep quality problems and how to improve their sleep quality should be answered by creating a smart application system to determine the cause of lack of sleep quality and how to effectively cure them. Through a cloud-based mobile application called “Turuku”, we will answer these questions such as “what are the main problems of people’s lack of sleep?”, “how can we fix trouble sleeping effectively?, and  “how can we educate people about the lack of sleep problem?”
 
 ## PRODUCT DESCRIPTION
-lorem  ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed
+Turuku is a cloud-based mobile application designed to help users improve their sleep quality through cutting-edge features. The app focuses on two core functionalities: Chronotype Classification and Personalized Sleep Recommendations. With Chronotype Classification, Turuku identifies your natural sleep-wake preferences, helping you understand your biological clock. This allows for a more tailored approach to improving your sleep patterns. The Sleep Recommendation feature provides customized advice to optimize your sleep schedule, ensuring better rest and enhanced well-being.
+
+Turuku is your companion for achieving better sleep and a healthier lifestyle, backed by advanced technology and user-focused solutions.
 
 ### DELIVERABLE
 Lorem  ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed
