@@ -3,10 +3,8 @@
 # TURUKU 💤
 “An Intelligent Sleep Tracking and Disorder Detection App”
 
-
-
 ## BACKGROUND
-Lorem ipsum  dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed
+Sleep quality is vital for health, yet many struggle with poor sleep, affecting daily life and increasing health risks. Aging worsens this issue, with 50% of older adults reporting sleep difficulties, contributing to cognitive decline and higher morbidity. Objective measures like polysomnography are costly and impractical for widespread use. "Turuku," a cloud-based mobile app, aims to tackle this by identifying sleep issues, providing tailored solutions, and educating users on improving sleep quality, offering an accessible and effective approach to better rest.
 
 ## PRODUCT DESCRIPTION
 lorem  ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed
