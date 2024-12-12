@@ -22,7 +22,7 @@ Turuku is your companion for achieving better sleep and a healthier lifestyle, b
 ![download (1)](https://github.com/user-attachments/assets/2eb232e2-2c5a-4784-bb7b-384d44aa2b68)
 | Component           | Tools & Libraries                                                                                          |
 |---------------------|-----------------------------------------------------------------------------------------------------------|
-| **Machine Learning** | TensorFlow, Pandas, NumPy, Sklearn, Seaborn, Matplotlib, TensorFlowJS                                    |
+| **Machine Learning** | TensorFlow, Pandas, NumPy, Sklearn, Seaborn, Matplotlib, TensorFlowJS, Keras, Jupyter, Kaggle                                    |
 | **Cloud Computing**  | ExpressJS, Cloud Run, Artifact Registry, PPC, MemoryStore, Pub/Sub, Cloud Monitoring, Grafana, OpenAPI, Mailgun, Virtual Machine, MySQL, Google Secret Manager, Ops of Agent, JWT, Flask API |
 | **Mobile Development** |                                       |
 
