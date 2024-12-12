@@ -1,5 +1,6 @@
 # TURUKU
 ## LOGO
+https://github.com/Turuku-Bangkit-Capstone-Project/.github/blob/main/profile/Turuku_Logo.png
 
 
 ## BACKGROUND
