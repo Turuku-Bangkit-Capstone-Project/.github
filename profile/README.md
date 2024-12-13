@@ -23,8 +23,8 @@ Turuku is your companion for achieving better sleep and a healthier lifestyle, b
 | Component           | Tools & Libraries                                                                                          |
 |---------------------|-----------------------------------------------------------------------------------------------------------|
 | **Machine Learning** | TensorFlow, Pandas, NumPy, Sklearn, Seaborn, Matplotlib, TensorFlowJS, Keras, Jupyter, Kaggle                                    |
-| **Cloud Computing**  | ExpressJS, Cloud Run, Artifact Registry, MemoryStore, Pub/Sub, Cloud Monitoring, Grafana, OpenAPI, Mailgun, Virtual Machine, MySQL, Google Secret Manager, Ops of Agent, JWT, Flask API |
-| **Mobile Development** |                                       |
+| **Cloud Computing**  | ExpressJS, NodeJS, Docker, Cloud Run, Artifact Registry,Redis MemoryStore, Google Pub/Sub, Cloud Monitoring, Grafana, OpenAPI, Sinch Mailgun, Virtual Machine, MySQL, Google Secret Manager, Cloud Ops of Agent, Javascript Web Token, Python Flask API, Miro, VPC, Workload Identity Pool |
+| **Mobile Development** | Kotlin, Retrofit, OkHTTP, Room Database, Alarm Manager, Datastore, Postman                                       |
 
 
 
@@ -47,4 +47,4 @@ Turuku is your companion for achieving better sleep and a healthier lifestyle, b
 | **Cloud Computing** | [Cloud Computing Repository](https://github.com/Turuku-Bangkit-Capstone-Project/Cloud-Computing-BANGKIT) |
 
 ## DOWNLOAD APPLICATION 📩
-(link)
+[Google Drive Turuku Application](https://drive.usercontent.google.com/download?id=1NS6509Z8ymHDlM5yJWb-R4AXoWJiykCL&export=download&authuser=0)
